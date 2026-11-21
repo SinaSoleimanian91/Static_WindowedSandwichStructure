@@ -5,6 +5,7 @@ Static Deflection Analysis of a Curved sandwich Plate Embedding pattern of Windo
 This MATLAB code analyses the static deflection of a curved  plate subjected to uniform transverse pressure. 
 A three layer layup is considered for the plate structure.
 
+
 <img width="350" height="237" alt="image" src="https://github.com/user-attachments/assets/d98414fe-1ee2-4cd1-bc0f-d50759dec53c" />
 
 The structure incorporates multiple rectangular windows filled with a different material, representing potential applications such as aircraft window panels.
