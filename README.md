@@ -21,8 +21,6 @@ The script allows users to define:
 
 Layer thicknesses and plate dimensions.
 
-(The original code is developed in 2013)
-
 Window area fraction and rectangular window arrangement.
 
 Material properties of the composite layers and window filler.
