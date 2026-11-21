@@ -2,8 +2,13 @@
 
 Static Deflection Analysis of a Curved sandwich Plate Embedding pattern of Windows
 
-This MATLAB code calculates the static deflection of a three-layer curved composite plate subjected to uniform transverse pressure. The structure incorporates multiple rectangular windows filled with a different material, representing potential applications such as aircraft window panels.
-<img width="1225" height="614" alt="image" src="https://github.com/user-attachments/assets/be23b963-6689-4d90-aed0-45ade6e28c16" />
+This MATLAB code analyses the static deflection of a curved  plate subjected to uniform transverse pressure. 
+A three layer layup is considered for the plate structure.
+<img width="583" height="395" alt="image" src="https://github.com/user-attachments/assets/31b687a8-6f42-4fd6-96ae-1ec9b36ffc71" />
+
+The structure incorporates multiple rectangular windows filled with a different material, representing potential applications such as aircraft window panels.
+<img width="435" height="218" alt="image" src="https://github.com/user-attachments/assets/3ebb5d2b-019e-4eb0-bfb9-a865579a9af0" />
+
 
 
 The analytical formulation is based on Classical Lamination Theory (CLT) and a shallow-shell approximation. The plate is modelled as a piecewise composite structure, with distinct extensional and bending stiffness properties inside and outside the window regions.
@@ -24,5 +29,8 @@ Principal radii of curvature.
 
 Applied uniform pressure.
 
-The outputs include the deflection at the plate centre, a two-dimensional deflection contour, and a three-dimensional representation of the deformed curved plate.
+The outputs include the deflection at the plate centre, and the deflection contour:
+<img width="1009" height="521" alt="image" src="https://github.com/user-attachments/assets/b1f56bdf-58a2-44e9-9228-ec4ad5707b57" />
+
+
 (I created the original code in 2013).
