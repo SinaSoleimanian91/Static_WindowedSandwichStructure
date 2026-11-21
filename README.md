@@ -1,6 +1,6 @@
 /# Static_WindowedSandwichStructure
 
-Static Deflection Analysis of a Curved sandwich Plate Embedding pattern of Windows
+Static Deflection Analysis of a Curved sandwich Plate Embedding a Pattern of Windows
 
 This MATLAB code analyses the static deflection of a curved  plate subjected to uniform transverse pressure. 
 A three layer layup is considered for the plate structure.
