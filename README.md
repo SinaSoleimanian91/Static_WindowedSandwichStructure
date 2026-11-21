@@ -23,3 +23,4 @@ Principal radii of curvature.
 Applied uniform pressure.
 
 The outputs include the deflection at the plate centre, a two-dimensional deflection contour, and a three-dimensional representation of the deformed curved plate.
+(I created original code in 2013).
